@@ -4,3 +4,23 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+title: <p align="center"> Uday Rangta </p>
+logo: /assets/img/profilepic.JPEG
+
+description:
+  <p align="center">
+  <a href="pdf/Resume_UdayRangta_2022.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/uday-rangta-9162601b/">LinkedIn</a> |
+  <a href="https://github.com/udayrangta89">GitHub</a>
+  
+  <br>   
+  Currently working on migrating old Datawarehouse from Netezza to Cloud.
+  Involves migrating about 600 tables, 3000 sqls, 300 shell scripts, 100 maestro jobs and 350 reports.
+  Managing a team of 10 directly and 15 more indirectly for the project.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
